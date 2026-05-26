@@ -42,5 +42,5 @@ fn main() {
         println!("Moved {:?} -> {}", file_name, extension);
     }
 
-    println!("Folder Organized!");
+    println!("Folder Organized!, Thanks!");
 }
